@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xWiz
-- 👀 I’m interested in Crypto, Discord Bot development and security
+- 👀 I’m interested in crypto, Discord bot development and security
 - 📫 0xWiz0x@protonmail.com
 
 <!---
